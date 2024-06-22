@@ -1,0 +1,1 @@
+The NNTrainingModel employs 3 main algorithms for image processing - Sigmoidal Activation Function, Cross Entropy Loss Function and ADAM Optimizer. A complete modular in nature that can define the no. of hidden layers, no. of neurons in each layers, accuracy in percentage required, feeding the input and the actual vector and defining learning rate
