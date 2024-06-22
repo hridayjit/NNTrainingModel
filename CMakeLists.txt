@@ -8,7 +8,7 @@ set(NNMODEL_INCLUDE_DIRECTORY ${CMAKE_SOURCE_DIR}/include)
 include_directories(${NNMODEL_INCLUDE_DIRECTORY})
 link_directories(${NNMODEL_LIB_DIRECTORY})
 
-set(SOURCES ${NNMODEL_LIB_DIRECTORY}/neuralNetModels.C main.c)
+set(SOURCES ${NNMODEL_LIB_DIRECTORY}/neuralNetModels.c main.c)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
